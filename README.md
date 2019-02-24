@@ -1,4 +1,6 @@
 # Java Document Classifier
+[![Build Status](https://travis-ci.com/karthiksk2012/document-classifier.svg?branch=master)](https://travis-ci.com/karthiksk2012/document-classifier)
+
 A simple document classifier written in Java based on Naive Bayesian Model. Currently, the classifier implemented is a Multinomial Bayes, but it can be extended to implement a classifier on Bernoulli and other probability models.
 
 ### Example usage
