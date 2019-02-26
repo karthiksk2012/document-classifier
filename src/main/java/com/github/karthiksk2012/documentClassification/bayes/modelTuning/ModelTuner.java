@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 import com.github.karthiksk2012.documentClassification.TaggedDocument;
 import com.github.karthiksk2012.documentClassification.bayes.BayesDocumentClassifier;
-import com.github.karthiksk2012.documentClassifier.textProcessing.ProcessingConstants;
+import com.github.karthiksk2012.documentClassification.textProcessing.ProcessingConstants;
 
 /**
  * Runs classifier on set of pre-tagged documents and determines the threshold

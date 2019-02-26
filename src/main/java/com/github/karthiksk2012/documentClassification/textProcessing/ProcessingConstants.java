@@ -1,4 +1,4 @@
-package com.github.karthiksk2012.documentClassifier.textProcessing;
+package com.github.karthiksk2012.documentClassification.textProcessing;
 
 public final class ProcessingConstants {
 	/**

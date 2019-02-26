@@ -1,4 +1,4 @@
-package com.github.karthiksk2012.documentClassifier.textProcessing;
+package com.github.karthiksk2012.documentClassification.textProcessing;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -11,6 +11,8 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import org.junit.Test;
+
+import com.github.karthiksk2012.documentClassification.textProcessing.TextProcessor;
 
 public class TextProcessorTest {
 

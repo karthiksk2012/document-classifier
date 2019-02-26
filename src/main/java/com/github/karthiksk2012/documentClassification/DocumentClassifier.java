@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import com.github.karthiksk2012.documentClassification.bayes.ClassificationResult;
-import com.github.karthiksk2012.documentClassifier.textProcessing.TextProcessor;
+import com.github.karthiksk2012.documentClassification.textProcessing.TextProcessor;
 
 /**
  * Abstract base extended by any classifier. This class provides skeletal

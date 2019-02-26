@@ -1,4 +1,4 @@
-package com.github.karthiksk2012.documentClassifier.textProcessing;
+package com.github.karthiksk2012.documentClassification.textProcessing;
 
 import java.util.ArrayList;
 import java.util.Arrays;

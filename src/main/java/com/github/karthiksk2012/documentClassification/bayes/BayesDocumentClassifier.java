@@ -10,8 +10,8 @@ import com.github.karthiksk2012.documentClassification.DocumentClassifier;
 import com.github.karthiksk2012.documentClassification.TaggedDocument;
 import com.github.karthiksk2012.documentClassification.WordFrequency;
 import com.github.karthiksk2012.documentClassification.bayes.modelTuning.ModelTuner;
-import com.github.karthiksk2012.documentClassifier.textProcessing.ProcessingConstants;
-import com.github.karthiksk2012.documentClassifier.textProcessing.TextProcessor;
+import com.github.karthiksk2012.documentClassification.textProcessing.ProcessingConstants;
+import com.github.karthiksk2012.documentClassification.textProcessing.TextProcessor;
 
 /**
  * A multinomial Naive bayes classifier - a concrete implementation of document
